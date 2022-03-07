@@ -1,4 +1,4 @@
 a = int(input())
-c = 3
+c = 4
 b = 25/c 
 print(a + b)
